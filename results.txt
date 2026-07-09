@@ -1,0 +1,4 @@
+Stocks that moved by at least 10% over the last week:
+- Meta Platforms: -12.30%
+- Apple Inc.: +11.40%
+- Microsoft Corp.: -10.10%
